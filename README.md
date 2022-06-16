@@ -1,5 +1,5 @@
 # Java
-Todos los apuntes y retos de Java de MisionTic
+Conceptos básicos introductorios a Java según lo aprendido en MisionTic
 
 ## Vocabulario
 
