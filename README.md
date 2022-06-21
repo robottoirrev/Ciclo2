@@ -8,3 +8,4 @@ Conceptos básicos introductorios a Java según lo aprendido en MisionTic
 * **Parámetro:** es un valor que se envía en la declaración de un objeto.
 * **Argumento:** es un valor que se envía en la invocación de un método.
 * **Static** : no hay necesidad de tener un objeto, se le aplica a la clase en general.
+* **Void**: palabra reservada que se usa en Java cuando una función o método no retorna nada.
