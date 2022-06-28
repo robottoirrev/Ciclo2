@@ -10,7 +10,7 @@ Conceptos básicos introductorios a Java según lo aprendido en MisionTic
 * **Static** : no hay necesidad de tener un objeto, se le aplica a la clase en general.
 * **Void**: palabra reservada que se usa en Java cuando una función o método no retorna nada.
 * **Método constructor**: método que tiene la particularidad de comenzar con letra mayúscula, a diferencia de los demás que son todos en minúscula. Tiene el mismo nombre de la clase, pero no es un clase porque tiene los paréntesis.
-* **Casting:** conversión entre tipos primitivos.[Ver más] (https://sites.google.com/site/pro012iessanandres/java/conversion-entre-tipos-primitivos-casting "Casting en Java")
+* **Casting:** conversión entre tipos primitivos. [Ver más](https://sites.google.com/site/pro012iessanandres/java/conversion-entre-tipos-primitivos-casting "Casting en Java")
 
 ____
 
